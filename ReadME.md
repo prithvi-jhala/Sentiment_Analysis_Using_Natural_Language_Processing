@@ -21,12 +21,10 @@
 
 ## Manifest
 
-- A manifest is a list of the top-level files in a project with a description of what each file is.
-
 ```
-- newfile.txt --> A new file that says stuff in it
-- README.md ----> This markdown file you are reading.
-- img ----------> Images folder for the readme
+- Sentiment_Analysis.ipynb --> Python file in which the project code is implemented.
+- Reviews.CSV --> File containing the Dataset. 
+
 ```
 
 ## Style Examples
