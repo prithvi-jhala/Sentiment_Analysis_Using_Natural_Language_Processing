@@ -1,4 +1,4 @@
-# Research Methods Class (v 1.0)
+# Sentiment Analysis using Natural Langugae Processing
 
 ![social](https://img.shields.io/github/followers/trevortomesh?style=social)![twitter](https://img.shields.io/twitter/follow/trevortomesh?style=social)![languages](https://img.shields.io/github/languages/count/trevortomesh/research-methods-class)
 
