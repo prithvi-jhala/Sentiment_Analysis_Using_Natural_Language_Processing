@@ -1,4 +1,13 @@
-# Sentiment Analysis using Natural Langugae Processing
+<h1 align="center"> Sentiment Analysis using Natural Language Processing </h1>
+
+<p align="center">
+    <a href=" " title="Sentiment Analysis">Demo</a>
+    ·
+    <a href=" " title="Sentiment Analysis">Repository</a>
+    ·
+    <a href=" " title="Sentiment Analysis">Report</a>
+</p>
+
 
 ## Table of Contents
 
