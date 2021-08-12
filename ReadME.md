@@ -12,12 +12,13 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Manifest](#-manifest)
-3. [Prerequisites](#-prerequisites)
-4. [Installation Steps](#%EF%B8%8F-installation-steps)
-5. [Installation of Python Libraries](#-installation-of-important-libraries)
-6. [Code Implementation](##-implementation-of-code)
-7. [Future Work and Discussion](#-future-scope)
+2. [Manifest](#manifest)
+3. [Prerequisites](#prerequisites)
+
+5. [Installation Steps](#%EF%B8%8F-installation-steps)
+6. [Installation of Python Libraries](#-installation-of-important-libraries)
+7. [Code Implementation](##-implementation-of-code)
+8. [Future Work and Discussion](#-future-scope)
 
 ## Introduction
 
@@ -47,38 +48,9 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 - NumPY
 - MatplotLIB
 
-1. Name of your project.
-2. Description of your project.
-3. Badges.
-4. Graphics / Visuals
-5. Install Instructions
-6. Usage (how does one use the program once it is installed.)
-7. Support / Contact Details.
-8. Road-map (future ideas)
-9. How to contribute
-10. Authors / Acknowledgements (give credit where credit is due!)
-11. License
-12. Project Status
+## Snapshots
 
-## Name of your Project
 
-- This should be, simply, the name of your project.. maybe with some kind of a version Number
-
-## Description of your project
-
-- This is a brief, but accurate description telling potential users _exactly_ what your project is about. This is akin to an "abstract" in academic works. 
-
-## Badges
-
-![social](https://img.shields.io/github/followers/trevortomesh?style=social)![twitter](https://img.shields.io/twitter/follow/trevortomesh?style=social)![languages](https://img.shields.io/github/languages/count/trevortomesh/research-methods-class)
-
-- Badges are small images that convey meta data such as whether or not all the tests are passing, version numbers, languages used, etc. 
-- Get badges at shields.io
-
-## Visuals
-
-- Visuals are very important! You might want to include screenshots of your code in operation. GIFS are also great!
-- Just use the "![ ]()" to input images.
 
 ## Installation 
 
