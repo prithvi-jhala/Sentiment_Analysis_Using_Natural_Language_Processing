@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-1. [Introduction](#-introduction)
+1. [Introduction](#introduction)
 2. [Manifest](#-manifest)
 3. [Prerequisites](#-prerequisites)
 4. [Installation Steps](#%EF%B8%8F-installation-steps)
