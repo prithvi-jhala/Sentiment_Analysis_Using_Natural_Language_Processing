@@ -29,7 +29,9 @@
 
 ## Prerequisites
 
-As I have implemented this code using Google Colab, there are no prerequistes as such, but if you want to run this code on your local system, you need to have the following items installed on your PC. 
+You need to have basic Python knowlegde to understand the code in this project. Also, basic Machine Learning and Natural Language Processing knowledge is required to understand how this project works.
+
+I have implemented this code using Google Colab, so there are no prerequistes as such, but if you want to run this code on your local system, you need to have the following items installed on your PC. 
 
 - Python
 - NLTK Library
