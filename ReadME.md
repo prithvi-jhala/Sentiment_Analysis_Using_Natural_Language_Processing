@@ -50,7 +50,7 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 
 ## Snapshots
 
-![Snapshot](snapshot1.png)
+![Snapshot](Images/snapshot1.png)
 
 
 ## Installation 
