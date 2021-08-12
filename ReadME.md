@@ -1,7 +1,7 @@
 <h1 align="center"> Sentiment Analysis using Natural Language Processing </h1>
 
 <p align="center">
-    <a href=" " title="Sentiment Analysis">Demo</a>
+    <a href=" " title="Sentiment Analysis">View Demo</a>
     ·
     <a href=" " title="Sentiment Analysis">Repository</a>
     ·
@@ -27,21 +27,17 @@
 
 ```
 
-## Style Examples
+## Prerequisites
 
-_Italics!_
+As I have implemented this code using Google Colab, there are no prerequistes as such, but if you want to run this code on your local system, you need to have the following items installed on your PC. 
 
-**Bold!**
-
-_**Bold-Italics!**_
-
-~~strikethru~~
-
-:coffee::cat::happy:
-
-In the words of Abraham Lincoln:
-
-> "Pardon my French!"
+- Python
+- NLTK Library
+- Keras
+- TensorFlow
+- Pandas
+- NumPY
+- MatplotLIB
 
 ## Embedding Code
 
