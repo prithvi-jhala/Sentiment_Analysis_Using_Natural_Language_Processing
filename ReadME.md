@@ -48,7 +48,7 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 - NumPY
 - MatplotLIB
 
-## Snapshot
+## Snapshots
 
 ![Snapshot](Images/snapshot1.png)
 
