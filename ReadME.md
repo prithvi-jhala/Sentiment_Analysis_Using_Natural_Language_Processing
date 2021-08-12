@@ -14,7 +14,7 @@
 1. [Introduction](#introduction)
 2. [Manifest](#manifest)
 3. [Prerequisites](#prerequisites)
-
+4. [Snapshots](#snapshots)
 5. [Installation Steps](#%EF%B8%8F-installation-steps)
 6. [Installation of Python Libraries](#-installation-of-important-libraries)
 7. [Code Implementation](##-implementation-of-code)
@@ -50,6 +50,7 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 
 ## Snapshots
 
+![Snapshot](snapshot1.png)
 
 
 ## Installation 
