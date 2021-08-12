@@ -1,10 +1,5 @@
 # Sentiment Analysis using Natural Langugae Processing
 
-![social](https://img.shields.io/github/followers/trevortomesh?style=social)![twitter](https://img.shields.io/twitter/follow/trevortomesh?style=social)![languages](https://img.shields.io/github/languages/count/trevortomesh/research-methods-class)
-
-
-This is a repository for my research methods class.
-
 ## Table of Contents
 
 1. [Manifest](#manifest)
