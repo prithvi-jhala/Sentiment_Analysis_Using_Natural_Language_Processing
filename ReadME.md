@@ -11,12 +11,18 @@
 
 ## Table of Contents
 
-1. [Manifest](#-manifest)
-2. [Prerequisites](#-prerequisites)
-3. [Installation Steps](#%EF%B8%8F-installation-steps)
-4. [Installation of Python Libraries](#-installation-of-important-libraries)
-7. [Code Implementation](##-implementation-of-code)
-8. [Future Work and Discussion](#-future-scope)
+1. [Introduction] 
+2. [Manifest](#-manifest)
+3. [Prerequisites](#-prerequisites)
+4. [Installation Steps](#%EF%B8%8F-installation-steps)
+5. [Installation of Python Libraries](#-installation-of-important-libraries)
+6. [Code Implementation](##-implementation-of-code)
+7. [Future Work and Discussion](#-future-scope)
+
+## Introduction
+
+This project is an implementation of Sentiment Analysis using Natural Language Processing. Brief explanation of the concepts Sentiment Analysis and Natural Language Processing can be found in the Report. This code can be used by any organization as a backend code which needs to perform Sentiment Analysis for business purposes. The dataset I used in this code is "Amazon Fine Food Reviews", but Sentiment Analysis can be run on any dataset like Twitter data, Social media comments, Movie Reviews, etc. These datasets are available on Kaggle.com. 
+
 
 
 ## Manifest
@@ -40,62 +46,6 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 - Pandas
 - NumPY
 - MatplotLIB
-
-## Embedding Code
-
-```cpp
-int myFunc(int a int b){
-    int c = a+b;
-    return c;
-}
-```
-
-## Embedding Links
-
-You can host websites at [Github Pages](https://pages.github.com/)!
-
-You can also do relative links [newfile.txt](newfile.txt)
-
-## Embedding Images
-
-![python](img/python.png)
-
-![woah](img/woah.gif)
-
-
-
-## Lists in Markdown
-
-Here's a list of cool pokemon:
-
-- Mew
-- Mewtwo
-- Celebi
-- Arceus
-- Porygon
-- Mimikyu
-
-Here's a list of my favorite pens:
-
-1. Lamy 200
-2. Herbin
-3. Pilot
-
-Here's a nested list!
-
-1. This is a number
-   1. This is a sub-number
-   2. This is another sub-number
-2. This is a number
-   - This is a subpoint
-   - This is another sub-point
-     1. This is a sub-sub number
-
-## Necessary Things for a README
-
-Depending on exactly what sort of project you are doing, there are a number of things that you may or may not want to include in a readme. There is really no **one true way** to do it. Readme's are a kind of _artform_.
-
-*__However__* there are a few things that you should consider including:
 
 1. Name of your project.
 2. Description of your project.
