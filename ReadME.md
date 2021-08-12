@@ -11,13 +11,13 @@
 
 ## Table of Contents
 
-1. [Manifest](#manifest)
-2. [Style Examples](#style-examples)
-3. [Embedding Code](#embedding-code)
-4. [Embedding Links](embedding-links)
-5. [Embedding Images](#embedding-images)
-6. [Lists In Markdown](#lists-in-markdown)
-7. [Necessary Things for a README](#necessary-things-for-a-readme)
+1. [Manifest](#-manifest)
+2. [Prerequisites](#-prerequisites)
+3. [Installation Steps](#%EF%B8%8F-installation-steps)
+4. [Installation of Python Libraries](#-installation-of-important-libraries)
+7. [Code Implementation](##-implementation-of-code)
+8. [Future Work and Discussion](#-future-scope)
+
 
 ## Manifest
 
