@@ -68,11 +68,11 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 
 5. This snapshot shows the accuracy of different number of features we selected for the analysis.
 
-![stepwise-implementation](Images/snapshot5.png)
-
 ![stepwise-implementation](Images/snapshot6.png)
 
-![stepwise-implementation](Images/snapshot7.png)
+6. This snapshot shows the final accuracy of the model after we trained it using Keras.
+
+![stepwise-implementation](Images/snapshot8.png)
 
 
 
