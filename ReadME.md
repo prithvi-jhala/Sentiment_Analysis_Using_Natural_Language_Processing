@@ -80,7 +80,7 @@ In this model, I have used only two classes (Positive and Negative) for the sent
 
 Currently, I will not be working on this project for a few weeks, I will pick up after mid September to work on the things I mentioned in Future Work Section. Till then, everyone is welcome to review the code, Edit it and notify me and provide me with any suggestions or feedback for the code and the report, it would be really valuable to me. Thanks.
 
-![GIF](<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3oEdva9BUHPIs2SkGk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3oEdva9BUHPIs2SkGk">via GIPHY</a></p>)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3oEdva9BUHPIs2SkGk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3oEdva9BUHPIs2SkGk"></a></p>
 
 
 
