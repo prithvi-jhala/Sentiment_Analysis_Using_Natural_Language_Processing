@@ -78,12 +78,11 @@ In this model, I have used only two classes (Positive and Negative) for the sent
 
 ## Project Status
 
-Currently, I will not be working on this project for a few weeks, I will pick up after mid September to work on the things I mentioned in Future Work Section. Till then, everyone is welcome to review the code, Edit it and notify me and provide me with any suggestions or feedback for the code and the report, it would be really valuable to me. Thanks.
+Currently, I will not be working on this project for a few weeks, I will pick up after mid September to work on the things I mentioned in Future Work Section. Till then, everyone is welcome to review the code, Edit it and notify me and provide me with any suggestions or feedback for the code and the report, it would be really valuable to me.
 
+<p align="center">
 ![Giphy](https://media.giphy.com/media/3oEdva9BUHPIs2SkGk/source.gif) 
-
-
-
+</p>
 
 
 
