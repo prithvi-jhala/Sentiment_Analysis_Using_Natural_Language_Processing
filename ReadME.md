@@ -15,10 +15,8 @@
 2. [Manifest](#manifest)
 3. [Prerequisites](#prerequisites)
 4. [Stepwise Implementation](#stepwise-implementation)
-5. [Installation Steps](#%EF%B8%8F-installation-steps)
-6. [Installation of Python Libraries](#-installation-of-important-libraries)
-7. [Code Implementation](##-implementation-of-code)
-8. [Future Work and Discussion](#-future-scope)
+5. [Future Work](#future-work)
+
 
 ## Introduction
 
@@ -74,7 +72,15 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 
 ![stepwise-implementation](Images/snapshot8.png)
 
+## Future Work
 
+In this model, I have used only two classes (Positive and Negative) for the sentiment analysis for better accuracy. I will work on this project in future to improve the accuracy and increase the number of classes. I will add a class for a neutral sentiment, because customers can have a neutral review on a food product. And this model can be used in other datasets too, so I am working on creating a generalised UI for end users and I will add more than one datasets to the model to train it better, but that requires a large amount of RAM and processing power. Training the model using this very dataset took me around 5-6 hours, so if we add more datasets, then it will take a very long time to train the model. So using deep learning and neural network models, we can improve the accuracy by using more than one datasets.
+
+## Project Status
+
+Currently, I will not be working on this project for a few weeks, I will pick up after mid September to work on the things I mentioned in Future Work Section. Till then, everyone is welcome to review the code, Edit it and notify me and provide me with any suggestions or feedback for the code and the report, it would be really valuable to me. Thanks.
+
+![GIF](<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3oEdva9BUHPIs2SkGk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3oEdva9BUHPIs2SkGk">via GIPHY</a></p>)
 
 
 
