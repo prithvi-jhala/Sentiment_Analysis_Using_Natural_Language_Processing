@@ -60,19 +60,19 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 
 3. Pre-processing of the data is a crucial part of the data mining process. Knowledge discovery during the training phase is more challenging if there is a lot of irrelevant and repetitive information or noisy and inaccurate data. We have used Stemming, Lemmatization and Stop word Removal to Clean the data.
 
-![stepwise-implementation](Images/snapshot4.png)
+![stepwise-implementation](Images/snapshot3.png)
 
 4. It is very difficult to classify a sentiment if we are using complex classes. So here we just have used 2 classes (Positive and Negative) to achieve maximum accuracy.
 
-![stepwise-implementation](Images/snapshot5.png)
+![stepwise-implementation](Images/snapshot4.png)
 
 5. This snapshot shows the accuracy of different number of features we selected for the analysis.
+
+![stepwise-implementation](Images/snapshot5.png)
 
 ![stepwise-implementation](Images/snapshot6.png)
 
 ![stepwise-implementation](Images/snapshot7.png)
-
-![stepwise-implementation](Images/snapshot8.png)
 
 
 
