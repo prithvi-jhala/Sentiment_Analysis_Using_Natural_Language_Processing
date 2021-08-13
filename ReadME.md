@@ -58,7 +58,11 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 
 ![StepwiseProcess](Images/snapshot2.png)
 
-3. 
+3. Pre-processing of the data is a crucial part of the data mining process. Knowledge discovery during the training phase is more challenging if there is a lot of irrelevant and repetitive information or noisy and inaccurate data.
+
+We have used Stemming, Lemmatization and Stop word Removal to Clean the data.
+
+![StepWiseProcess](Images/snapshot4.png)
 
 
 
