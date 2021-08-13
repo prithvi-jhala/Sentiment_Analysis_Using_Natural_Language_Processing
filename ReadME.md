@@ -16,6 +16,9 @@
 3. [Prerequisites](#prerequisites)
 4. [Stepwise Implementation](#stepwise-implementation)
 5. [Future Work](#future-work)
+6. [Project Status](#project-status)
+7. [Acknowledgements](#acknowledgements)
+
 
 
 ## Introduction
@@ -82,7 +85,9 @@ Currently, I will not be working on this project for a few weeks, I will pick up
 
 ![Giphy](https://media.giphy.com/media/3oEdva9BUHPIs2SkGk/source.gif) 
 
+## Acknowledgements
 
+I would like to express my deepest appreciation to my course instructor, Dr. Trevor Tomesh, whose contribution in stimulating suggestions and encouragement, helped me to coordinate my project especially in writing the report. Dr. Trevor Tomesh helped me with the basic concepts of conducting a research and preparing a well formatted standard report document. It will be very useful to me in the future as well.
 
 
 
