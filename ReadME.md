@@ -58,12 +58,19 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 
 ![StepwiseProcess](Images/snapshot2.png)
 
-3. Pre-processing of the data is a crucial part of the data mining process. Knowledge discovery during the training phase is more challenging if there is a lot of irrelevant and repetitive information or noisy and inaccurate data.
-
-We have used Stemming, Lemmatization and Stop word Removal to Clean the data.
+3. Pre-processing of the data is a crucial part of the data mining process. Knowledge discovery during the training phase is more challenging if there is a lot of irrelevant and repetitive information or noisy and inaccurate data. We have used Stemming, Lemmatization and Stop word Removal to Clean the data.
 
 ![StepWiseProcess](Images/snapshot4.png)
 
+4. It is very difficult to classify a sentiment if we are using complex classes. So here we just have used 2 classes (Positive and Negative) to achieve maximum accuracy.
+
+![StepWiseProcess](Images/snapshot5.png)
+
+![StepWiseProcess](Images/snapshot6.png)
+
+![StepWiseProcess](Images/snapshot7.png)
+
+![StepWiseProcess](Images/snapshot8.png)
 
 
 
