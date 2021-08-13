@@ -14,7 +14,7 @@
 1. [Introduction](#introduction)
 2. [Manifest](#manifest)
 3. [Prerequisites](#prerequisites)
-4. [Snapshots](#snapshots)
+4. [Stepwise Process](#stepwiseprocess)
 5. [Installation Steps](#%EF%B8%8F-installation-steps)
 6. [Installation of Python Libraries](#-installation-of-important-libraries)
 7. [Code Implementation](##-implementation-of-code)
@@ -48,9 +48,17 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 - NumPY
 - MatplotLIB
 
-## Snapshots
+## Stepwise Process
 
-![Snapshot](Images/snapshot1.png)
+1. The following is the snapshot of my Google Colaboratory. First we have to mount our Google drive, in which we have to upload our Dataset file which would generally be in .csv or .json format. 
+
+![StepwiseProcess](Images/snapshot1.png)
+
+2. Then, to display the Dataset we are using Pandas Library. 
+
+![StepwiseProcess](Images/snapshot2.png)
+
+3. 
 
 
 
