@@ -14,7 +14,7 @@
 1. [Introduction](#introduction)
 2. [Manifest](#manifest)
 3. [Prerequisites](#prerequisites)
-4. [Stepwise Implementation](#stepwiseimplementaion)
+4. [Stepwise Implementation](#stepwise-implementaion)
 5. [Installation Steps](#%EF%B8%8F-installation-steps)
 6. [Installation of Python Libraries](#-installation-of-important-libraries)
 7. [Code Implementation](##-implementation-of-code)
@@ -52,25 +52,27 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 
 1. The following is the snapshot of my Google Colaboratory. First we have to mount our Google drive, in which we have to upload our Dataset file which would generally be in .csv or .json format. 
 
-![StepwiseProcess](Images/snapshot1.png)
+![StepwiseImplementation](Images/snapshot1.png)
 
 2. Then, to display the Dataset we are using Pandas Library. 
 
-![StepwiseProcess](Images/snapshot2.png)
+![StepwiseImplementation](Images/snapshot2.png)
 
 3. Pre-processing of the data is a crucial part of the data mining process. Knowledge discovery during the training phase is more challenging if there is a lot of irrelevant and repetitive information or noisy and inaccurate data. We have used Stemming, Lemmatization and Stop word Removal to Clean the data.
 
-![StepWiseProcess](Images/snapshot4.png)
+![StepWiseImplementation](Images/snapshot4.png)
 
 4. It is very difficult to classify a sentiment if we are using complex classes. So here we just have used 2 classes (Positive and Negative) to achieve maximum accuracy.
 
-![StepWiseProcess](Images/snapshot5.png)
+![StepWiseImplementation](Images/snapshot5.png)
 
-![StepWiseProcess](Images/snapshot6.png)
+5. This snapshot shows the accuracy of different number of features we selected for the analysis.
 
-![StepWiseProcess](Images/snapshot7.png)
+![StepWiseImplementation](Images/snapshot6.png)
 
-![StepWiseProcess](Images/snapshot8.png)
+![StepWiseImplementation](Images/snapshot7.png)
+
+![StepWiseImplementation](Images/snapshot8.png)
 
 
 
