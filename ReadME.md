@@ -5,7 +5,7 @@
     ·
     <a href=" " title="Sentiment Analysis">Repository</a>
     ·
-    <a href=" " title="Sentiment Analysis">Report</a>
+    <a href="https://github.com/prithvi-jhala/Sentiment_Analysis_Using_Natural_Language_Processing/blob/main/Project_Report.pdf" title="Sentiment Analysis">Report</a>
 </p>
 
 
