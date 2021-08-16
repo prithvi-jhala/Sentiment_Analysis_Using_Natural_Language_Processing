@@ -3,7 +3,7 @@
 <p align="center">
     <a href=" " title="Sentiment Analysis">View Demo</a>
     ·
-    <a href=" " title="Sentiment Analysis">Repository</a>
+    <a href="https://github.com/prithvi-jhala/Sentiment_Analysis_Using_Natural_Language_Processing" title="Sentiment Analysis">Repository</a>
     ·
     <a href="https://github.com/prithvi-jhala/Sentiment_Analysis_Using_Natural_Language_Processing/blob/main/Project_Report.pdf" title="Sentiment Analysis">Report</a>
 </p>
