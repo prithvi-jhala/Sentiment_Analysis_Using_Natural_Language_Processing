@@ -33,7 +33,7 @@ According to the datasets used, the code needs to be edited as per requirements.
 
 ```
 - Sentiment_Analysis.ipynb --> Python file in which the project code is implemented.
-- Reviews.CSV --> File containing the Dataset. 
+- Reviews.CSV --> Link of the file containing the Dataset (https://www.kaggle.com/snap/amazon-fine-food-reviews). 
 
 ```
 
