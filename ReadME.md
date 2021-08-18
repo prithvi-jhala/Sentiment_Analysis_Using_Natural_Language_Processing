@@ -68,6 +68,8 @@ I have implemented this code using Google Colab, so there are no prerequistes as
 
 4. It is very difficult to classify a sentiment if we are using complex classes. So here we just have used 2 classes (Positive and Negative) to achieve maximum accuracy.
 
+![stepwise-implementation](Images/snapshot10.png)
+
 ![stepwise-implementation](Images/snapshot4.png)
 
 5. This snapshot shows the accuracy of different number of features we selected for the analysis.
