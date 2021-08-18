@@ -25,8 +25,9 @@
 
 This project is an implementation of Sentiment Analysis using Natural Language Processing. Brief explanation of the concepts Sentiment Analysis and Natural Language Processing can be found in the Report. This code can be used by any organization as a backend code which needs to perform Sentiment Analysis for business purposes. The dataset I used in this code is "Amazon Fine Food Reviews", but Sentiment Analysis can be run on any dataset like Twitter data, Social media comments, Movie Reviews, etc. These datasets are available on Kaggle.com. 
 
-According to the datasets used, the code needs to be edited as per requirements. The steps followed in this project are generalised and should be followed in any project including Sentiment Analysis, the techniques used may vary according to needs of the organization using this. The accuracy may also vary according to the models used to perform Sentiment Analysis.
+![introduction](Images/snapshot9.png)
 
+According to the datasets used, the code needs to be edited as per requirements. The steps followed in this project are generalised and should be followed in any project including Sentiment Analysis, the techniques used may vary according to needs of the organization using this. The accuracy may also vary according to the models used to perform Sentiment Analysis.
 
 
 ## Manifest
@@ -35,8 +36,6 @@ According to the datasets used, the code needs to be edited as per requirements.
 - Sentiment_Analysis.ipynb --> Python file in which the project code is implemented.
 
 - Reviews.CSV --> Link containing the dataset file (https://www.kaggle.com/snap/amazon-fine-food-reviews).
-
-
 ```
 
 ## Prerequisites
